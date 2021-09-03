@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Naresh Sharma Portfolio</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="style.css">
+<!-- gallery one -->
+<link rel="stylesheet" type="text/css"  href="lightbox.min.CSS">
+<script  src="lightbox-plus-jquery.min.js"></script>
+<meta charset="utf-8">
+
+</head>
+
+<body>
+
+<div class="sidenav">
+<div class="profile"> <img src="Images/Profilepic.jpg" alt="profile Pics">
+<h2 style="color: red">NARESH SHARMA</h2>
+<p><b>Art and Design Manager</b></p>
+<p style="color:gray">Nextgentm Pvt. Ltd.</p>
+<p style="font-size:14px">&#9679; Product Designer/User Researcher</p>
+<p style="font-size:14px">&#9679; Web/UI Designer</p>
+<p style="font-size:14px">&#9679; Game/Concept Artist</p>
+<p style="font-size:14px">&#9679; Marketing Promotions</p>
+<p style="font-size:14px">&#8226; Animations/Motion Graphics</p>
+<p style="font-size:14px">&#8226; Drawings/Illustrations</p>
+<p style="font-size:14px">&#8226; HTML 5/CSS 3</p>
+<!---<a style="font-size:14px"class="CTA" href="default.asp" target="_blank">Download resume</a>-->
+<!-- Add font awesome icons -->
+<!--<div>
+  <a href="https://www.linkedin.com/in/naresh-sharma-b0929830/" class="fa fa-linkedin"></a>
+  <a href="#" class="fa fa-pinterest"></a>
+  <a href="#" class="fa fa-twitter"></a>
+ <a href="#" class="fa fa-facebook"></a>
+  <a href="#" class="fa fa-youtube"></a>
+  <a href="#" class="fa fa-instagram"></a>
+  <a href="#" class="fa fa-skype"></a>
+</div>-->
+<!--
+<a style="font-size:16px"href="#services">Games/Digital Art</a>
+<a style="font-size:16px"href="#clients">UI/UX</a></h6>
+<a style="font-size:16px"href="#contact">Marketing Promotions</a></h6>
+<a style="font-size:16px"href="#about">About Me</a></h6>-->
+
+</div>
+</div>
+<!--- Main Page start from here-->
+  <div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'gameart')" id="defaultOpen">Game/Digital Art</button>
+  <button class="tablinks" onclick="openCity(event, 'ui')"> UI Designs</button>
+  <button class="tablinks" onclick="openCity(event, 'ux')"> UX Designs </button>
+  <button class="tablinks" onclick="openCity(event, 'banner')">Marketing Promotions</button>
+<!--  <button class="tablinks" onclick="openCity(event, 'Drawings')">Drawings/Animations</button>-->
+  <button class="tablinks" onclick="openCity(event, 'about')">About Me</button>
+</div>
+<!--------------------------- Game And Digital Art ------------------->
+<div id="gameart" class="tabcontent">
+  <h3>Game Art | Concept Art | Characters | Backgrounds | Animations | Drawings</h3>
+  <div class="abousus">
+  <p>I am a 2D artist with over 15+ years of experience in the video Gaming, Animations and marketing promotional graphics.
+    I am currently working at Nextgentm Pvt. Ltd. and Having worked at Jetsynthesys pvt. ltd.,
+    Play games 24x7, Digital Chocolate India, Rock You India, SantaBanta.com, Astute Systems and Chambal Games.
+    I was the part of many historic and super profitable titles.</p>
+    <p>Iknew my creative limits with the user centric and profit making games. And i am the person who knows very well what the people like to play</p>
+  </div>
+  <h3>Game/Concept Art | Characters</h3>
+
+  <div class="gallery">
+        <a href="images/art/Fantasy_Beauty.JPG"data-lightbox="mygallery"> <img src="new/Images/Art/Fantasy_Beauty_ico.jpg" alt="Fantasy_Beauty"> </a>
+        <a href="images/art/Red_Indian_Girl.jpg" data-lightbox="mygallery"> <img src="images/art/Red_Indian_Girl_ico.jpg"> </a>
+        <a href="images/art/Paladin.jpg"data-lightbox="mygallery"> <img src="images/art/Paladin_ico.jpg"> </a>
+        <a href="images/art/Goblin.jpg"data-lightbox="mygallery"> <img src="images/art/Goblin_ico.jpg"> </a>
+        <a href="images/art/Lady_Bird.jpg"data-lightbox="mygallery"> <img src="images/art/Lady_Bird_ico.jpg"> </a>
+        <a href="images/art/Unbelive.jpg" data-lightbox="mygallery"> <img src="images/art/Unbelive_ico.jpg"> </a>
+        <a href="images/art/woman_warrior.png"data-lightbox="mygallery"> <img src="images/art/woman_warrior_ico.jpg"> </a>
+        <a href="images/art/woman_syka.jpg"data-lightbox="mygallery"> <img src="images/art/woman_syka_ico.jpg"> </a>
+        <a href="images/art/Army_General.jpg"data-lightbox="mygallery"> <img src="images/art/Army_General_ico.jpg"> </a>
+        <a href="images/art/Alian_Killer.jpg"data-lightbox="mygallery"> <img src="images/art/Alian_Killer_ico.jpg"> </a>
+        <!--<a href="images/art/Jessica.jpg"data-lightbox="mygallery"> <img src="images/art/Jessica_ico.jpg"> </a>-->
+        <a href="images/art/Dead_Fighter.jpg"data-lightbox="mygallery"> <img src="images/art/Dead_Fighter_ico.jpg"> </a>
+        <a href="images/art/Comic_Girls.jpg"data-lightbox="mygallery"> <img src="images/art/Comic_Girls_ico.jpg"> </a>
+        <a href="images/art/underworld_queen.jpg"data-lightbox="mygallery"> <img src="images/art/underworld_queen_ico.jpg"> </a>
+        <a href="images/art/Underworld_Woman.jpg"data-lightbox="mygallery"> <img src="images/art/Underworld_Woman_ico.jpg"> </a>
+
+
+<h3>Game Art </h3>
+        <a href="images/art/MC_01.jpg"data-lightbox="mygallery"> <img src="images/art/MC_01_ico.jpg"> </a>
+        <a href="images/art/MC_02.jpg"data-lightbox="mygallery"> <img src="images/art/MC_02_ico.jpg"> </a>
+        <a href="images/art/MC_03.jpg"data-lightbox="mygallery"> <img src="images/art/MC_03_ico.jpg"> </a>
+        <a href="images/art/Army_assets_tanks.jpg"data-lightbox="mygallery"> <img src="images/art/Army_assets_tanks_ico.jpg"> </a>
+        <a href="images/art/units_experimental_2.png"data-lightbox="mygallery"> <img src="images/art/units_experimental_2_ico.jpg"> </a>
+        <a href="images/art/Tanks_army.jpg"data-lightbox="mygallery"> <img src="images/art/Tanks_army_ico.jpg"> </a>
+        <a href="images/art/Builds.png"data-lightbox="mygallery"> <img src="images/art/Builds_ico.jpg"> </a>
+        <a href="images/art/weapons.jpg"data-lightbox="mygallery"> <img src="images/art/weapons_ico.jpg"> </a>
+        <a href="images/art/Edible_items.jpg"data-lightbox="mygallery"> <img src="images/art/Edible_items_ico.jpg"> </a>
+
+
+<h3>Drawings and Sketches</h3>
+        <a href="images/art/Drawings_01.jpg"data-lightbox="mygallery"> <img src="images/art/Drawings_01_ico.jpg"> </a>
+        <a href="images/art/A.jpg"data-lightbox="mygallery"> <img src="images/art/A_ico.jpg"> </a>
+        <a href="images/art/B.jpg"data-lightbox="mygallery"> <img src="images/art/B_ico.jpg"> </a>
+        <a href="images/art/RC_Mas.jpg"data-lightbox="mygallery"> <img src="images/art/RC_Mas_ico.jpg"> </a>
+        <a href="images/art/Set_Drawings_01.jpg"data-lightbox="mygallery"> <img src="images/art/Set_Drawings_01_ico.jpg"> </a>
+        <a href="images/art/Manual_D.jpg"data-lightbox="mygallery"> <img src="images/art/Manual_D_ico.jpg"> </a>
+        <a href="images/art/Fantasy_characters.jpg"data-lightbox="mygallery"> <img src="images/art/Fantasy_characters_ico.jpg"> </a>
+        <a href="images/art/C.jpg"data-lightbox="mygallery"> <img src="images/art/C_ico.jpg"> </a>
+        <a href="images/art/Comics_book.jpg"data-lightbox="mygallery"> <img src="images/art/Comics_book_ico.jpg"> </a>
+        <!----<a > <img src="images/art/Coming_soon_ico.jpg"> </a>-->
+
+
+<h3>Backgrounds </h3>
+        <a href="images/art/RC_casino_tb.png"data-lightbox="mygallery"> <img src="images/art/RC_casino_tb_ico.jpg"> </a>
+        <a href="images/art/Royal_tb.png"data-lightbox="mygallery"> <img src="images/art/Royal_tb_ico.jpg"> </a>
+        <a href="images/art/Game_Play.png"data-lightbox="mygallery"> <img src="images/art/Game_Play_ico.jpg"> </a>
+        <a href="images/art/SF_Reload.png"data-lightbox="mygallery"> <img src="images/art/SF_Reload_ico.jpg"> </a>
+        <a href="images/art/Bg_concept.jpg"data-lightbox="mygallery"> <img src="images/art/Bg_concept_ico.jpg"> </a>
+        <a > <img src="images/art/Coming_soon_ico.jpg"> </a>
+
+<h3> Character Animations</h3>
+                <a href="images/art/The_Chandra.gif"data-lightbox="mygallery"> <img src="images/art/The_Chandra_ico.jpg"> </a>
+                <a href="images/art/Enemeys.gif"data-lightbox="mygallery"> <img src="images/art/Enemeys_ico.jpg"> </a>
+                <a href="images/art/fight_till_death_ch.jpg"data-lightbox="mygallery"> <img src="images/art/fight_till_death_ch_ico.jpg"> </a>
+
+
+
+<h3>Animations</h3>
+        <a href="images/art/GTR.mp4"data-lightbox="mygallery"> <img src="images/art/GTR_ico.jpg"> </a>
+        <a href="images/art/motion_graphics.mp4"data-lightbox="mygallery"> <img src="images/art/motion_graphics_ico.jpg"> </a>
+        <a href="images/art/Flipy Bird action unlimited.mp4"data-lightbox="mygallery"> <img src="images/art/Flipy-Bird_ico.jpg"> </a>
+<h3>Other Work</h3>
+        <a href="images/art/SS_01.gif"data-lightbox="mygallery"> <img src="images/art/SS_01_ico.jpg"> </a>
+        <a href="images/art/SS_02.jpg"data-lightbox="mygallery"> <img src="images/art/SS_02_ico.jpg"> </a>
+        <a href="images/art/Pixel_Art_1.jpg"data-lightbox="mygallery"> <img src="images/art/Pixel_Art_1_ico.jpg"> </a>
+
+        <a href="images/art/FTD_SS.jpg"data-lightbox="mygallery"> <img src="images/art/FTD_SS_ico.jpg"> </a>
+        <a href="images/art/Games_SS_01.jpg"data-lightbox="mygallery"> <img src="images/art/Games_SS_01_ico.jpg"> </a>
+        <a href="images/art/Games_SS_02.jpg"data-lightbox="mygallery"> <img src="images/art/Games_SS_02_ico.jpg"> </a>
+
+        <a href="images/art/Pixel_Art_2.jpg"data-lightbox="mygallery"> <img src="images/art/Pixel_Art_2_ico.jpg"> </a>
+        <!--<a > <img src="images/art/Coming_soon_ico.jpg"> </a>
+        <a > <img src="images/art/Coming_soon_ico.jpg"> </a>-->
+
+
+
+
+</div>
+</div>
+<!---------------------------- UI Designs START ------------------------->
+<div id="ui" class="tabcontent">
+  <h3>Game/App UI | Logo's | Others</h3>
+  <div class="abousus">
+  <p>I'm a Ui  Researcher, Designer, & Convergent Thinker with over 15+ years in the creative industry.</p>
+  <p>I am a champion for the user. I design beautiful solutions that deliver an engaging experience, while simultaneously meeting the needs of
+    the business. I do this through research (listening and empathizing), analysis (critical thinking), and arriving at a data-driven solution
+    that meets and exceeds everyone's needs. My goal is to work for a company who knows the value of user-centered design principles and makes
+    it a core part of their design process. Let's do this together!.</p>
+  </div>
+  <h3>Game/App UI</h3>
+  <div class="gallery">
+        <a href="images/UI/1_RC_Lobby.jpg" data-lightbox="mygallery"> <img src="images/UI/1_RC_Lobby_ico.jpg"> </a>
+        <a href="images/UI/2_RC_Spinner.jpg" data-lightbox="mygallery"> <img src="images/UI/2_RC_Spinner_ico.jpg"> </a>
+        <a href="images/UI/3_RC_Add_Cash_01.jpg" data-lightbox="mygallery"> <img src="images/UI/3_RC_Add_Cash_01_ico.jpg"> </a>
+
+        <a href="images/UI/4_RC_Add_Cash_01.jpg" data-lightbox="mygallery"> <img src="images/UI/4_RC_Add_Cash_02_ico.jpg"> </a>
+        <a href="images/UI/5_RC_BAF.jpg" data-lightbox="mygallery"> <img src="images/UI/5_RC_BAF_ico.jpg"> </a>
+        <a href="images/UI/3_RC_Add_Cash_02.jpg" data-lightbox="mygallery"> <img src="images/UI/3_RC_Add_Cash_02_ico.jpg"> </a>
+
+
+        <a href="images/UI/5_RC_UI_Styles.png" data-lightbox="mygallery"> <img src="images/UI/5_RC_UI_Styles_ico.jpg"> </a>
+        <a href="images/UI/6_Army_Attack.jpg" data-lightbox="mygallery"> <img src="images/UI/6_Army_Attack_ico.jpg"> </a>
+        <a href="images/UI/7_Space_Adventure_A.png" data-lightbox="mygallery"> <img src="images/UI/7_Space_Adventure_A_ico.jpg"> </a>
+
+        <a href="images/UI/8_Space_Adventure_B.png" data-lightbox="mygallery"> <img src="images/UI/8_Space_Adventure_B_ico.jpg"> </a>
+        <a href="images/UI/9_Space_Adventure_C.png" data-lightbox="mygallery"> <img src="images/UI/9_Space_Adventure_C_ico.jpg"> </a>
+        <a href="images/UI/10_LD.jpg" data-lightbox="mygallery"> <img src="images/UI/10_LD_ico.jpg"> </a>
+
+        <a href="images/UI/11_LD_V2.jpg" data-lightbox="mygallery"> <img src="images/UI/11_LD_V2_ico.jpg"> </a>
+        <a href="images/UI/12_Landing_03.png" data-lightbox="mygallery"> <img src="images/UI/12_Landing_03_ico.jpg"> </a>
+        <a href="images/UI/13_Lobby_Ranked.jpg" data-lightbox="mygallery"> <img src="images/UI/13_Lobby_Ranked_ico.jpg"> </a>
+
+        <a href="images/UI/14_Lobby_unranked.jpg" data-lightbox="mygallery"> <img src="images/UI/14_Lobby_unranked_ico.jpg"> </a>
+        <a href="images/UI/15_Landing_Page.png" data-lightbox="mygallery"> <img src="images/UI/15_Landing_Page_ico.jpg"> </a>
+        <a href="images/UI/16_Art_Store.png" data-lightbox="mygallery"> <img src="images/UI/16_Art_Store_ico.jpg"> </a>
+
+        <a href="images/UI/17_Bollywood_im.jpg" data-lightbox="mygallery"> <img src="images/UI/17_Bollywood_im_ico.jpg"> </a>
+        <a href="images/UI/18_Chat_app.png" data-lightbox="mygallery"> <img src="images/UI/18_Chat_app_ico.jpg"> </a>
+        <a href="images/UI/19_Friends_add.png" data-lightbox="mygallery"> <img src="images/UI/19_Friends_add_ico.jpg"> </a>
+
+        <a href="images/UI/20_IOS_Game.jpg" data-lightbox="mygallery"> <img src="images/UI/20_IOS_Game_ico.jpg"> </a>
+        <a href="images/UI/21_Part_1.png" data-lightbox="mygallery"> <img src="images/UI/21_Part_1_ico.jpg"> </a>
+        <a href="images/UI/22_Part_B_01.png" data-lightbox="mygallery"> <img src="images/UI/22_Part_B_01_ico.jpg"> </a>
+
+        <a href="images/UI/23_Part_B_01_popups_Settings.png" data-lightbox="mygallery"> <img src="images/UI/23_Part_B_01_popups_Settings_ico.jpg"> </a>
+        <a href="images/UI/24_HorseRacing_A.png" data-lightbox="mygallery"> <img src="images/UI/24_HorseRacing_A_ico.jpg"> </a>
+        <a href="images/UI/25_HorseRacing_pro_01.jpg" data-lightbox="mygallery"> <img src="images/UI/25_HorseRacing_pro_01_ico.jpg"> </a>
+
+        <a href="images/UI/26_HorseRacing_pro_02.jpg" data-lightbox="mygallery"> <img src="images/UI/26_HorseRacing_pro_02_ico.jpg"> </a>
+        <a href="images/UI/27_teen_patti.jpg" data-lightbox="mygallery"> <img src="images/UI/27_teen_patti_ico.jpg"> </a>
+        <a href="images/UI/28_Game_villa_aap.jpg" data-lightbox="mygallery"> <img src="images/UI/28_Game_villa_aap_ico.jpg"> </a>
+
+        <a href="images/UI/29_Suduko.jpg" data-lightbox="mygallery"> <img src="images/UI/29_Suduko_ico.jpg"> </a>
+        <a href="images/UI/30_SpinBar.jpg" data-lightbox="mygallery"> <img src="images/UI/30_SpinBar_ico.jpg"> </a>
+        <a > <img src="images/art/Coming_soon_ico.jpg"> </a>
+
+
+
+<h3>Logo's and Icons</h3>
+        <a href="images/UI/logo/1_The_Lost_Princess.jpg" data-lightbox="mygallery"> <img src="images/UI/logo/1_The_Lost_Princess_ico.jpg"> </a>
+        <a href="images/UI/logo/2_Rewards.jpg" data-lightbox="mygallery"> <img src="images/UI/logo/2_Rewards_ico.jpg"> </a>
+        <a href="images/UI/logo/3_Wallet.png" data-lightbox="mygallery"> <img src="images/UI/logo/3_Wallet_ico.jpg"> </a>
+
+        <a href="images/UI/logo/4_LM.jpg" data-lightbox="mygallery"> <img src="images/UI/logo/4_LM_ico.jpg"> </a>
+
+        <!--<a href="images/UI/logo/.jpg" data-lightbox="mygallery"> <img src="images/UI/logo/_ico.jpg"> </a>
+        <a href="images/UI/logo/.jpg" data-lightbox="mygallery"> <img src="images/UI/logo/_ico.jpg"> </a>
+        <a href="images/UI/logo/.jpg" data-lightbox="mygallery"> <img src="images/UI/logo/_ico.jpg"> </a>-->
+
+
+ <h3>Other Designs</h3>
+        <a href="images/UI/others/1_Boot_pe_loot.jpg" data-lightbox="mygallery"> <img src="images/UI/others/1_Boot_pe_loot_ico.jpg"> </a>
+        <a href="images/UI/others/2_stepping_up.jpg" data-lightbox="mygallery"> <img src="images/UI/others/2_stepping_up_ico.jpg"> </a>
+        <a href="images/UI/others/3_Generico.jpg" data-lightbox="mygallery"> <img src="images/UI/others/3_Generico_ico.jpg"> </a>
+
+        <a href="images/UI/others/4_Kadhai_khazana_web.png" data-lightbox="mygallery"> <img src="images/UI/others/4_Kadhai_khazana_web_ico.jpg"> </a>
+        <a > <img src="images/art/Coming_soon_ico.jpg"> </a>
+        <a > <img src="images/art/Coming_soon_ico.jpg"> </a>
+
+
+
+
+
+     </div>
+  </div>
+
+
+  <!----------------------------  UI Designs  END  ------------------------->
+  <!---------------------------- UX Designs START ------------------------->
+
+  <div id="ux" class="tabcontent">
+    <h3>Product Design | UX</h3>
+    <div class="abousus">
+      <p> Under Development please check after few hours </p>
+      <p> </p>
+    </div>
+    <div> <p> </p> </div>
+       <img src="images/UX/WIP.jpg">
+
+  <!--  <p>I'm a UX Researcher, Designer, & Convergent Thinker with over 15+ years in the creative industry.</p>
+    <p>I am a champion for the user. I design beautiful solutions that deliver an engaging experience, while simultaneously meeting the needs of
+      the business. I do this through research (listening and empathizing), analysis (critical thinking), and arriving at a data-driven solution
+      that meets and exceeds everyone's needs. My goal is to work for a company who knows the value of user-centered design principles and makes
+      it a core part of their design process. Let's do this together!.</p>
+    </div>
+    <div class="UXLaws">
+    <p><B>To start, I drafted 5 guiding research questions about the furniture shopping experience.</B></p>
+    <p>&#9679;Who is the target audience? &nbsp;
+      &#9679;How is augmented reality (AR) used in current shopping experiences? &nbsp;
+      &#9679;What are the strengths and weaknesses of the competitors? &nbsp;
+      &#9679;What motivates and concerns people when shopping furniture? &nbsp;
+      &#9679;How do people find new furniture for their home?</p>
+    <p><b>Secondary research</b></p>
+      <p>First, I started with the market research to gain a better sense of the
+  furniture industry by gathering existing resources and information on
+  demographics, market trends, and helpful statistics. Studying the market
+  has guided me to understand the problem behind the problem by
+  identifying the key findings.</p>
+
+</div>-->
+    <!--<div class="gallery">
+          <a href="images/art/Red_Indian_Girl.jpg" data-lightbox="mygallery"> <img src="images/art/Red_Indian_Girl_ico.jpg"> </a>
+
+
+       </div>-->
+    </div>
+    <div class="gallery">
+
+
+
+<!----------------------------  UX Designs  END  ------------------------->
+<!----------------------------  Marketing Banners START  ------------------------->
+
+<div id="banner" class="tabcontent">
+  <h3> Banners | Video creatives | Gif's | Quick Banners</h3>
+  <div class="abousus">
+  <p>I worked on marketing promotionals from last 8+ Years. And fiished 300+ creatives till now and so on. Even few are build
+     the bussiness grow exteamly even in double digit of caror.</p>
+     </div>
+  <div class="gallery">
+    <h3>Banners </h3>
+        <a href="images/Marketing/RC_Suddep.jpg" data-lightbox="mygallery"> <img src="images/Marketing/RC_Suddep_ico.jpg"> </a>
+        <a href="images/Marketing/RC_Motivational.jpg" data-lightbox="mygallery"> <img src="images/Marketing/RC_Motivational_ico.png"> </a>
+        <a href="images/Marketing/RC_prosenjit-durga-puja.jpg" data-lightbox="mygallery"> <img src="images/Marketing/RC_prosenjit-durga-puja_ico.jpg"> </a>
+        <a href="images/Marketing/RC_gurjrat.jpg" data-lightbox="mygallery"> <img src="images/Marketing/RC_gurjrat_ico.png"> </a>
+        <a href="images/Marketing/Star_Pack_B.png" data-lightbox="mygallery"> <img src="images/Marketing/Star_Pack_B_ico.jpg"> </a>
+        <a href="images/Marketing/Offer_Cashback.png" data-lightbox="mygallery"> <img src="images/Marketing/Offer_Cashback_ico.png"> </a>
+
+        <a href="images/Marketing/Teen_patti_pro.png" data-lightbox="mygallery"> <img src="images/Marketing/Teen_patti_pro_ico.jpg"> </a>
+        <a href="images/Marketing/RC_DRT_2017.png" data-lightbox="mygallery"> <img src="images/Marketing/RC_DRT_2017_ico.png"> </a>
+        <a href="images/Marketing/WSOR.png" data-lightbox="mygallery"> <img src="images/Marketing/WSOR_ico.jpg"> </a>
+
+        <h3>Video Banners </h3>
+            <a href="images/vid/nextgen/RC_Drt.gif" data-lightbox="mygallery"> <img src="images/Marketing/vid/RC_Drt_ico.jpg"> </a>
+            <a href="images/vid/nextgen/RC_gurjrat_vid.mp4" data-lightbox="mygallery"> <img src="images/Marketing/vid/RC_gurjrat_vid_ico.jpg"> </a>
+            <a href="images/vid/nextgen/GP_Journey.mp4" data-lightbox="mygallery"> <img src="images/Marketing/vid/GP_Journey_ico.jpg"> </a>
+
+            <a href="images/vid/nextgen/Signin_journey.mp4" data-lightbox="mygallery"> <img src="images/Marketing/vid/Signin_journey_ico.jpg"> </a>
+          <!--  <a > <img src="images/art/Coming_soon_ico.jpg"> </a>
+            <a > <img src="images/art/Coming_soon_ico.jpg"> </a>-->
+
+      <h3>Quick Banners </h3>
+
+        <a href="images/Marketing/nextgen/Baseball trivia1.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Baseball trivia1.jpg"> </a>
+        <a href="images/Marketing/nextgen/Baseball trivia2.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Baseball trivia2.jpg"> </a>
+        <a href="images/Marketing/nextgen/Baseball trivia3.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Baseball trivia3.jpg"> </a>
+        <a href="images/Marketing/nextgen/Big 3_1.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Big 3_1.jpg"> </a>
+        <a href="images/Marketing/nextgen/Big 3_2.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Big 3_2.jpg"> </a>
+        <a href="images/Marketing/nextgen/Big 3_3.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Big 3_3.jpg"> </a>
+
+        <a href="images/Marketing/nextgen/Big 3_4.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Big 3_4.jpg"> </a>
+        <a href="images/Marketing/nextgen/Big 3_5.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Big 3_5.jpg"> </a>
+        <a href="images/Marketing/nextgen/Candice Dupree.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Candice Dupree.jpg"> </a>
+
+        <a href="images/Marketing/nextgen/Cash-Back.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Cash-Back.jpg"> </a>
+        <a href="images/Marketing/nextgen/Corsley Edwards1.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Corsley Edwards1.jpg"> </a>
+        <a href="images/Marketing/nextgen/Corsley Edwards2.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Corsley Edwards2.jpg"> </a>
+
+        <a href="images/Marketing/nextgen/Corsley Edwards3.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Corsley Edwards3.jpg"> </a>
+        <a href="images/Marketing/nextgen/Der Marr Johnson.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Der Marr Johnson.jpg"> </a>
+        <a href="images/Marketing/nextgen/Fun-Fact1.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Fun-Fact1.jpg"> </a>
+
+        <a href="images/Marketing/nextgen/Fun-Fact2.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Fun-Fact2.jpg"> </a>
+        <a href="images/Marketing/nextgen/Glenn Gronkowski.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Glenn Gronkowski.jpg"> </a>
+        <a href="images/Marketing/nextgen/Hockey Trivia1.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Hockey Trivia1.jpg"> </a>
+
+        <a href="images/Marketing/nextgen/Hockey Trivia2.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Hockey Trivia2.jpg"> </a>
+        <a href="images/Marketing/nextgen/Jeremy Hill.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Jeremy Hill.jpg"> </a>
+        <a href="images/Marketing/nextgen/Lord-Brunson.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Lord-Brunson.jpg"> </a>
+
+        <a href="images/Marketing/nextgen/Mike Outlaw.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Mike Outlaw.jpg"> </a>
+        <a href="images/Marketing/nextgen/prizes.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/prizes.jpg"> </a>
+        <a href="images/Marketing/nextgen/Q.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Q.jpg"> </a>
+
+        <a href="images/Marketing/nextgen/Raquel_1.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Raquel_1.jpg"> </a>
+        <a href="images/Marketing/nextgen/Raquel_2.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Raquel_2.jpg"> </a>
+        <a href="images/Marketing/nextgen/Rewards.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Rewards.jpg"> </a>
+
+        <a href="images/Marketing/nextgen/Trevin Wade.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Trevin Wade.jpg"> </a>
+        <a href="images/Marketing/nextgen/Woman-Soccer.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/Woman-Soccer.jpg"> </a>
+        <a href="images/Marketing/nextgen/women-soccer.jpg" data-lightbox="mygallery"> <img src="images/Marketing/nextgen/women-soccer.jpg"> </a>
+
+  <h3>Emailers </h3>
+        <a href="images/Marketing/Emailer/Mailer_1.jpg" data-lightbox="mygallery"> <img src="images/Marketing/Emailer/Mailer_1_ico.jpg"> </a>
+        <a href="images/Marketing/Emailer/Mailer_2.jpg" data-lightbox="mygallery"> <img src="images/Marketing/Emailer/Mailer_2_ico.jpg"> </a>
+        <a href="images/Marketing/Emailer/Mailer_3.jpg" data-lightbox="mygallery"> <img src="images/Marketing/Emailer/Mailer_3_ico.jpg"> </a>
+
+
+
+   </div>
+</div>
+
+<!----------------------------  Marketing Banners ENDS  ------------------------->
+<!----------------------------        ABOUT START       ------------------------->
+<div id="about" class="tabcontent">
+
+  <h3>Hi,</h3>
+  <p><b>Clean visual design, rapid prototyping and a dash of motion to top it off. From strategy to mentorship,
+     I enjoy all aspects of building products.</b></p>
+
+   <div class="abousus">
+  <p>I am a 2D artist with over 15+ years of experience in the video Gaming, UI/UX Designing, Animations and marketing
+    promotional graphics.I am currently working at Nextgentm Pvt. Ltd. and Having worked at Jetsynthesys pvt. ltd., Play games 24x7, Digital Chocolate India, Rock You India, SantaBanta.com,
+    Astute Systems and Chambal Games. I Worked on many platforms including Web/UI,Facebook, IOS, Android, And Online Websites,Games/Apps.</p>
+  <p>  I enjoy a diverse variety of experiences and lifestyles because ultimately, my passion is a good story!</p>
+   </div>
+</div>
+<!----------------------------          ABOUT ENDS         ---------------------->
+<!--------------------------------- Script tabs ------------------>
+
+<!----------------- Header Nav ------------------>
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+<!--<!--  <h2>Sidebar</h2>
+  <p>This sidebar is of full height (100%) and always shown.</p>
+  <p>Scroll down the page to see the result.</p>
+  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
+  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
+  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
+  <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
+  <div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h3>Games/Digital Art</h3>-->
+  <!--  <p>Some text..</p>_-->
+
+
+
+    <!--  Footer Start -->
+
+</body>
+</html>
